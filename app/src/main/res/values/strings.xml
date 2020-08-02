@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseDeDonnees</string>
+    <string name="action_add_cours">Ajouter un nouveau cours</string>
+    <string name="btn_1">Ajouter</string>
+</resources>
